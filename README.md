@@ -1,0 +1,3 @@
+# Predicting Booking Cancelation
+
+In today's dynamic hospitality industry, the ability to anticipate and mitigate booking cancellations is important for optimizing revenue and enhancing guest satisfaction. To address this challenge, I embarked on a project to develop a predictive model using Python. By leveraging historical booking data and employing advanced machine learning techniques, my goal was to accurately forecast which bookings are likely to be canceled. This project aimed to provide hoteliers with valuable insights to proactively manage their inventory, allocate resources efficiently, and ultimately improve operational efficiency and guest experiences.
